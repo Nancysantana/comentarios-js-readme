@@ -6,10 +6,10 @@ Descripcion del proyecto:
 
 Este es el proyecto titulado Twitter,  el cual consiste en replicar el newsfeed de Twitter,
 éste ha sido creado mediante HTML, CSS, JS y publicado en Github para mostrar las habilidades
-colaborativas adquiridas por el Squad Serendipia durante el segundo Sprint de Laboratoria Mexico turno pm .
+colaborativas adquiridas por el Squad Serendipia durante el segundo Sprint de Laboratoria Mexico turno pm.
 
 Incluye el siguiente flujo de versiones:
-========================================**
+========================================
 
 Versión 0.0.1
 
@@ -28,11 +28,9 @@ Se introducen las caracteristicas de:
 Al pasar de los 140 caracteres, deshabilitar el botón enviar.
 Al pasar los 120 caracteres, mostrar el contador con OTRO color.
 Al pasar los 130 caracteres, mostrar el contador con OTRO color.
-Al pasar los 140 caracteres, mostrar el contador en negativo.*
+Al pasar los 140 caracteres, mostrar el contador en negativo.
 
-*****             Versión 0.0.4 (fase beta, falta implementar)                  *****
-***** 1.-Al presionar enter(/n) crece el textarea de acuerdo al tamaño del texto  *****
-***** PENDIENTE LA INVESTIGACION DE USO DE SCROLL PARA COMPLETAR ESTA VERSION     *****
+*****Versión 0.0.4 (fase beta, falta implementar) PENDIENTE LA INVESTIGACION DE USO DE SCROLL PARA COMPLETAR ESTA VERSION  *****
 
 
 Versión 0.0.5
@@ -48,7 +46,7 @@ En el formato de 24 horas: hh:mm.
 
 Version Actual:
 ==============
-0.0.6*
+0.0.6
 
 
 Autoras:

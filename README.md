@@ -1,7 +1,7 @@
-# PROYECTO TWITTER
+ PROYECTO TWITTER
 =================
 
-**Descripcion del proyecto:
+Descripcion del proyecto:
 =========================
 
 Este es el proyecto titulado Twitter,  el cual consiste en replicar el newsfeed de Twitter,
@@ -11,7 +11,7 @@ colaborativas adquiridas por el Squad Serendipia durante el segundo Sprint de La
 Incluye el siguiente flujo de versiones:
 ========================================**
 
-*Versión 0.0.1
+Versión 0.0.1
 
 Se hizo el diseño de un formulario que permita ingresar un texto y un botón para "twittear",
 despues agregamos un evento de click al botón o de submit al formulario, en el evento se
@@ -35,7 +35,7 @@ Al pasar los 140 caracteres, mostrar el contador en negativo.*
 ***** PENDIENTE LA INVESTIGACION DE USO DE SCROLL PARA COMPLETAR ESTA VERSION     *****
 
 
-*Versión 0.0.5
+Versión 0.0.5
 
 Si la cantidad de caracteres ingresados (sin dar un enter), supera al tamaño del textarea
 por defecto, debe de agregarse una línea más para que no aparezca el scroll. (Si en caso aplica)
@@ -51,9 +51,9 @@ Version Actual:
 0.0.6*
 
 
-#Autoras:
+Autoras:
 ========
-**SQUAD SERENDIPIA.
+SQUAD SERENDIPIA.
 
 - Martha Angelica Fuentes Cruz.
 - Behtsabet Monserrat Gonzalez Diaz.
